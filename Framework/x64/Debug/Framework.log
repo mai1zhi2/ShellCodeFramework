@@ -1,0 +1,35 @@
+﻿  Shellcode.cpp
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(12,82): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“FN_LoadLibraryA”
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(13,86): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“FN_GetProcAddress”
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(16,78): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“FN_MessageBoxA”
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(46,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(47,3): error C2065: “mov”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(47,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(47,7): error C2065: “eax”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(47,12): error C2065: “fs”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(47,14): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(47,14): error C2059: 语法错误:“:”
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(48,3): error C2065: “mov”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(48,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(48,7): error C2065: “eax”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(48,17): error C2143: 语法错误: 缺少“]”(在“+”的前面)
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(48,17): error C3481: “eax”: 未找到 lambda 捕获变量
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(48,17): error C3260: “+”: 跳过 lambda 主体之前的意外标记
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(62,49): error C2065: “hModule”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(63,1): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(63,1): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(63,1): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(65,1): warning C4311: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”的指针截断
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(65,1): warning C4302: “类型强制转换”: 从“PIMAGE_DOS_HEADER”到“DWORD”截断
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(65,1): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_EXPORT_DIRECTORY”
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(69,42): error C2065: “hModule”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(71,42): error C2065: “hModule”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(73,47): error C2065: “hModule”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(76,13): error C2065: “lpProcName”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(83,34): error C2065: “hModule”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(85,24): error C2065: “lpProcName”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(85,1): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“char *”
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(91,28): error C2065: “hModule”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(101,22): error C2065: “lpProcName”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(102,26): error C2065: “hModule”: 未声明的标识符
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(107,1): fatal error C1004: 发现意外的文件尾

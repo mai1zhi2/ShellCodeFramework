@@ -1,0 +1,9 @@
+﻿D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(Framework.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Shellcode.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(41): warning C4715: “MyStrcmp”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  Framework.vcxproj -> D:\projects\ShelCodeFramework\Release\GenerateShellCode.exe

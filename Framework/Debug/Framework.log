@@ -1,0 +1,13 @@
+﻿  Shellcode.cpp
+D:\projects\ShelCodeFramework\Framework\Shellcode.cpp(41): warning C4715: “MyStrcmp”: 不是所有的控件路径都返回值
+LIBCMT.lib(error.obj) : error LNK2019: 无法解析的外部符号 _strcpy_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z) 中引用了该符号
+LIBCMT.lib(error.obj) : error LNK2019: 无法解析的外部符号 _strcat_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z) 中引用了该符号
+LIBCMT.lib(error.obj) : error LNK2019: 无法解析的外部符号 ___stdio_common_vsprintf_s，函数 __vsprintf_s_l 中引用了该符号
+LIBCMT.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 ___vcrt_GetModuleFileNameW，函数 "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPAEPA_WKPAH1K@Z) 中引用了该符号
+LIBCMT.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 ___vcrt_LoadLibraryExW，函数 "struct HINSTANCE__ * __cdecl GetPdbDllFromInstallPath(void)" (?GetPdbDllFromInstallPath@@YAPAUHINSTANCE__@@XZ) 中引用了该符号
+LIBCMT.lib(sehprolg4.obj) : error LNK2019: 无法解析的外部符号 __except_handler4，函数 __SEH_prolog4 中引用了该符号
+LIBCMT.lib(chandler4_noexcept.obj) : error LNK2001: 无法解析的外部符号 __except_handler4
+LIBCMT.lib(chandler4_noexcept.obj) : error LNK2019: 无法解析的外部符号 _terminate，函数 __except_handler4_noexcept 中引用了该符号
+LIBCMT.lib(chandler4_noexcept.obj) : error LNK2019: 无法解析的外部符号 ___current_exception，函数 __except_handler4_noexcept 中引用了该符号
+LIBCMT.lib(chandler4_noexcept.obj) : error LNK2019: 无法解析的外部符号 ___current_exception_context，函数 __except_handler4_noexcept 中引用了该符号
+D:\projects\ShelCodeFramework\Debug\Framework.exe : fatal error LNK1120: 9 个无法解析的外部命令

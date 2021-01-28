@@ -1,0 +1,839 @@
+﻿  Assembling SyscallsStubs.asm...
+  Syscalls.c
+  WjCryptLib_Aes.c
+  正在生成代码...
+  Wow64Gate.cpp
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(20,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(21,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(22,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(23,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(24,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(25,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(26,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(27,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(28,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(29,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(30,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(31,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(32,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(33,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(34,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(35,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(36,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(37,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(38,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(39,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(40,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(41,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(42,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(43,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(44,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(45,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(46,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(47,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(48,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(49,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(50,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(51,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(52,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(53,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(54,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(55,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(56,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(57,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(58,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(59,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(60,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(61,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(62,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,83): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(63,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(64,95): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(65,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(66,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,23): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,41): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(67,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,11): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,29): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,59): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(68,89): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,5): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,17): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,35): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,47): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,53): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,65): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,71): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,77): warning C4309: “初始化”: 截断常量值
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\projects\ShellCodeFrame\XShellCodeLoaderWow64Gate\Wow64Gate.cpp(69,95): warning C4309: “初始化”: 截断常量值
+Wow64Gate.obj : warning LNK4078: 找到多个“.edata”节，它们具有不同的特性(C0400040)
+  XShellCodeLoaderWow64Gate.vcxproj -> D:\projects\ShellCodeFrame\Debug\XShellCodeLoaderWow64Gate.exe
